@@ -1,0 +1,53 @@
+@import '../../styles/variables.scss';
+div.keyboard {
+  text-align: center;
+  font-size: 2.5vmin;
+  display: grid;
+  justify-items: center;
+  margin-bottom: 5vh;
+  user-select: none;
+  div.row {
+    display: inline-block;
+    height: 3em;
+    margin: 0.2em;
+    &.spaceRow {
+      width: 70%;
+    }
+    > * {
+      position: relative;
+      background: $secondary-color;
+      text-align: center;
+      color: #333;
+      float: left;
+      border-radius: 0.3em;
+      margin: 0.2em;
+      padding: 0.2em;
+      width: 3.3em;
+      height: 100%;
+      box-sizing: border-box;
+      cursor: pointer;
+      border: 1px solid #444;
+      box-shadow: 0 0.2em 0 0.05em #222;
+      border-bottom-color: #555;
+      width: 3.5em;
+      transition: background-color 200ms ease-in-out;
+      &.isGreen {
+        background: lightgreen;
+      }
+      &.isRed {
+        background: tomato;
+      }
+      &.space {
+        width: 100%;
+      }
+      &[data-pressed='on'],
+      &:active {
+        background: #2a2a2a;
+        color: #aaa;
+        position: relative;
+        top: 0.2em;
+        box-shadow: 0 0 0 0.05em black;
+      }
+    }
+  }
+}
