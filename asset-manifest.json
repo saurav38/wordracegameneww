@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wordracegameneww/static/css/main.07a43bd7.css",
+    "main.js": "/wordracegameneww/static/js/main.931b25db.js",
+    "static/js/845.c4925f92.chunk.js": "/wordracegameneww/static/js/845.c4925f92.chunk.js",
+    "static/media/countdown.mp3": "/wordracegameneww/static/media/countdown.db760888c0942ed4200e.mp3",
+    "static/media/failed.mp3": "/wordracegameneww/static/media/failed.03d5c886a657f34ca1e8.mp3",
+    "static/media/warning.mp3": "/wordracegameneww/static/media/warning.30260291d0bf5269ace4.mp3",
+    "static/media/start.mp3": "/wordracegameneww/static/media/start.53b5f91dadf2ddb87c04.mp3",
+    "static/media/correct.mp3": "/wordracegameneww/static/media/correct.1a4828090c3908f676c9.mp3",
+    "static/media/wrong.mp3": "/wordracegameneww/static/media/wrong.42f5ea5793d72149123b.mp3",
+    "static/media/logo.svg": "/wordracegameneww/static/media/logo.3f6122768c9c61cf942bde8547c8c156.svg",
+    "index.html": "/wordracegameneww/index.html",
+    "main.07a43bd7.css.map": "/wordracegameneww/static/css/main.07a43bd7.css.map",
+    "main.931b25db.js.map": "/wordracegameneww/static/js/main.931b25db.js.map",
+    "845.c4925f92.chunk.js.map": "/wordracegameneww/static/js/845.c4925f92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a43bd7.css",
+    "static/js/main.931b25db.js"
+  ]
+}
