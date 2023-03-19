@@ -2,7 +2,7 @@
 A fun, React-Redux game to gauge how fast you type, developed by someone who potentially has stubby fingers 🖖🏻
 
 ## 👁️ Preview
-Check it out here - [Word Race](https://apps.srijansrivastava.tech/WordRace/)
+Check it out here - [Word Race](https://saurav38.github.io/wordracegameneww/)
 
 ## ⏲️ About the Application
 
